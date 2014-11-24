@@ -1,0 +1,99 @@
+Description:
+- - - Rugby
+    - Sport
+    - Description
+    - Specifique
+  - - Rugby
+    - Sport
+    - Commentaire
+    - Specifique
+- - - Rugby
+    - Sport
+    - Description
+    - Generique
+  - - Course
+    - Sport
+    - Commentaire
+    - Generique
+- - - Journal
+    - Autre
+    - Description
+    - Specifique
+  - - Journal
+    - Autre
+    - Commentaire
+    - Specifique
+- - - Journal
+    - Autre
+    - Description
+    - Generique
+  - - Magazine
+    - Autre
+    - Commentaire
+    - Generique
+Sport:
+- - - Election
+    - Autre
+    - Description
+    - Specifique
+  - - Foot
+    - Sport
+    - Description
+    - Specifique
+- - - Magazine
+    - Autre
+    - Commentaire
+    - Specifique
+  - - Foot
+    - Sport
+    - Commentaire
+    - Specifique
+- - - Magazine
+    - Autre
+    - Description
+    - Generique
+  - - Course
+    - Sport
+    - Description
+    - Generique
+- - - Election
+    - Autre
+    - Commentaire
+    - Generique
+  - - Rugby
+    - Sport
+    - Commentaire
+    - Generique
+Uniques:
+- - Magazine
+  - Autre
+  - Description
+  - Specifique
+- - Foot
+  - Sport
+  - Commentaire
+  - Generique
+- - Course
+  - Sport
+  - Description
+  - Specifique
+- - Foot
+  - Sport
+  - Description
+  - Generique
+- - Election
+  - Autre
+  - Commentaire
+  - Specifique
+- - Course
+  - Sport
+  - Commentaire
+  - Specifique
+- - Journal
+  - Autre
+  - Commentaire
+  - Generique
+- - Election
+  - Autre
+  - Description
+  - Generique

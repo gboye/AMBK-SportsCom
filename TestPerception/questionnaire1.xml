@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category">
+<category>
+<text>
+Perception/Classement/Absolu
+</text>
+</category>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/1.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/17.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/21.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/7.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/22.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/16.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/8.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez l'extrait.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/6.mp3">1</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après avoir écouté, répondez aux deux questions.<br />
+            S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
+            Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question>
+<question type="category">
+<category>
+<text>
+Perception/Classement/Sport
+</text>
+</category>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/5.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/12.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/15.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/13.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/10.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/2.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/19.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/9.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question>
+<question type="category">
+<category>
+<text>
+Perception/Classement/Description
+</text>
+</category>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/14.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/18.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/3.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/4.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/11.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/23.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question><question type="cloze">
+<name><text>titre</text></name>
+<questiontext><text><![CDATA[<p>Ecoutez les deux extraits.</p>
+            <table align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td><a href="http://soundcloud.com/perception/20.mp3">1</a></td>
+                        <td> <a href="http://soundcloud.com/perception/24.mp3">2</a></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">1</td>
+                        <td style="text-align: center;">2</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
+            {1:MCV:=1~=2}</p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+</question>
+</quiz>
