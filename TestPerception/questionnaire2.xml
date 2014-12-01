@@ -18,7 +18,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -36,7 +36,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -54,7 +54,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -72,7 +72,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -90,7 +90,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -108,7 +108,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -126,7 +126,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -144,7 +144,7 @@ Perception/Classement/Absolu
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez l'extrait.</p>
+            <p>Écoutez l'extrait. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après avoir écouté, répondez aux deux questions.<br />
             S'agit-il d'un commentaire sportif ? : {1:MCV:=Oui~=Non}<br />
             Est-ce que le locuteur semble décrire directement ce qu'il voit ? : {1:MCV:=Oui~=Non}</p>]]></text></questiontext>
@@ -171,18 +171,18 @@ Perception/Classement/Sport
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>FSCS vs MACS</text></name>
+<name><text>MACS vs FSCS</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437834&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179037455&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437834&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -190,7 +190,7 @@ Perception/Classement/Sport
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
@@ -209,18 +209,18 @@ Perception/Classement/Sport
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>EACG vs RSCG</text></name>
+<name><text>RSCG vs EACG</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178435538&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439774&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178435538&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -228,7 +228,7 @@ Perception/Classement/Sport
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à du commentaire sportif.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
@@ -254,7 +254,7 @@ Perception/Classement/Description
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
@@ -273,18 +273,18 @@ Perception/Classement/Description
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>JACS vs JADS</text></name>
+<name><text>JADS vs JACS</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439304&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439170&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439304&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -292,18 +292,18 @@ Perception/Classement/Description
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>JADG vs MACG</text></name>
+<name><text>MACG vs JADG</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439221&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178438176&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439221&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -311,7 +311,7 @@ Perception/Classement/Description
                     </tr>
                 </tbody>
             </table>
-            <p>Écoutez les deux extraits.</p>
+            <p>Écoutez les deux extraits. (Attention de ne pas cliquer sur Play another track !)</p>
             <p>Après les avoir écoutés, sélectionnez celui qui vous semble correspondre à de la description directe.<br />
             {1:MCV:=1~=2}</p>]]></text></questiontext>
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
