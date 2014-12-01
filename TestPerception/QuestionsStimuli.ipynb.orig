@@ -1,7 +1,11 @@
 {
  "metadata": {
   "name": "",
+<<<<<<< HEAD
   "signature": "sha256:98d6a36045ed957d98a6546957d001aa455c6ea44c19e173a6872ed040f25ade"
+=======
+  "signature": "sha256:9ea0dfd4e522b91f459007cbba9bcbde7703aff6871a89bce4e3a579698a9891"
+>>>>>>> TEST
  },
  "nbformat": 3,
  "nbformat_minor": 0,
@@ -20,12 +24,16 @@
      "cell_type": "code",
      "collapsed": false,
      "input": [
-      "phase=3"
+      "phase=1"
      ],
      "language": "python",
      "metadata": {},
      "outputs": [],
+<<<<<<< HEAD
      "prompt_number": 41
+=======
+     "prompt_number": 1
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -47,7 +55,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
+<<<<<<< HEAD
      "prompt_number": 42
+=======
+     "prompt_number": 2
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -66,7 +78,11 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
+<<<<<<< HEAD
      "prompt_number": 43
+=======
+     "prompt_number": 3
+>>>>>>> TEST
     },
     {
      "cell_type": "code",
@@ -87,8 +103,24 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 44
+=======
+     "outputs": [
+      {
+       "ename": "Error",
+       "evalue": "iterator should return strings, not bytes (did you open the file in text mode?)",
+       "output_type": "pyerr",
+       "traceback": [
+        "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m\n\u001b[0;31mError\u001b[0m                                     Traceback (most recent call last)",
+        "\u001b[0;32m<ipython-input-4-f0c5a4d85ca4>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      4\u001b[0m \u001b[0;32mwith\u001b[0m \u001b[0mopen\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m'../../../Copy/Recherche/Rugby/Test2/StimuliLiens.csv'\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m'rb'\u001b[0m\u001b[0;34m)\u001b[0m \u001b[0;32mas\u001b[0m \u001b[0mcsvfile\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      5\u001b[0m     \u001b[0massociations\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mcsv\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mreader\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mcsvfile\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mdelimiter\u001b[0m\u001b[0;34m=\u001b[0m\u001b[0;34m';'\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mquotechar\u001b[0m\u001b[0;34m=\u001b[0m\u001b[0;34m'\"'\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 6\u001b[0;31m     \u001b[0;32mfor\u001b[0m \u001b[0massociation\u001b[0m \u001b[0;32min\u001b[0m \u001b[0massociations\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      7\u001b[0m         \u001b[0mshareLiens\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;36m0\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;36m1\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;36m2\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;36m3\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m=\u001b[0m\u001b[0mshareLien\u001b[0m\u001b[0;34m%\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;36m4\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      8\u001b[0m         \u001b[0;32mif\u001b[0m \u001b[0mlen\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0massociation\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m<\u001b[0m\u001b[0;36m6\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;31mError\u001b[0m: iterator should return strings, not bytes (did you open the file in text mode?)"
+       ]
+      }
+     ],
+     "prompt_number": 4
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -108,8 +140,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 45
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -135,8 +171,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 46
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -154,8 +194,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 47
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -219,8 +263,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 48
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -246,6 +294,7 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [
       {
        "output_type": "stream",
@@ -257,6 +306,9 @@
       }
      ],
      "prompt_number": 49
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -279,8 +331,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 50
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -305,8 +361,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 51
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "code",
@@ -317,8 +377,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 52
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "code",
@@ -340,6 +404,7 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [
       {
        "output_type": "stream",
@@ -353,6 +418,9 @@
       }
      ],
      "prompt_number": 53
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "code",
@@ -374,6 +442,7 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [
       {
        "output_type": "stream",
@@ -387,6 +456,9 @@
       }
      ],
      "prompt_number": 54
+=======
+     "outputs": []
+>>>>>>> TEST
     },
     {
      "cell_type": "markdown",
@@ -405,8 +477,12 @@
      ],
      "language": "python",
      "metadata": {},
+<<<<<<< HEAD
      "outputs": [],
      "prompt_number": 55
+=======
+     "outputs": []
+>>>>>>> TEST
     }
    ],
    "metadata": {}
