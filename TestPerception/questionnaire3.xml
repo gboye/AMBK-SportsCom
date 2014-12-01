@@ -3,7 +3,7 @@
 <question type="category">
 <category>
 <text>
-Perception/Classement/Absolu
+Perception/Questionnaire3/Absolu
 </text>
 </category>
 </question><question type="cloze">
@@ -154,16 +154,16 @@ Perception/Classement/Absolu
 <question type="category">
 <category>
 <text>
-Perception/Classement/Sport
+Perception/Questionnaire3/Sport
 </text>
 </category>
 </question><question type="cloze">
-<name><text>MADS vs FSDS</text></name>
+<name><text>FSDS vs MADS</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178438135&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437723&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178438135&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -215,12 +215,12 @@ Perception/Classement/Sport
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>RSCG vs MACG</text></name>
+<name><text>MACG vs RSCG</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439774&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178438176&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439774&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -237,16 +237,16 @@ Perception/Classement/Sport
 <question type="category">
 <category>
 <text>
-Perception/Classement/Description
+Perception/Questionnaire3/Description
 </text>
 </category>
 </question><question type="cloze">
-<name><text>CSCS vs CSDS</text></name>
+<name><text>CSDS vs CSCS</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178432831&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178432665&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178432831&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -260,12 +260,12 @@ Perception/Classement/Description
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>FSCG vs FSDG</text></name>
+<name><text>FSDG vs FSCG</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437892&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437788&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178437892&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -279,12 +279,12 @@ Perception/Classement/Description
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>EADS vs MACS</text></name>
+<name><text>MACS vs EADS</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178435392&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179037455&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178435392&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
@@ -298,12 +298,12 @@ Perception/Classement/Description
 <generalfeedback><text>Bien reçu.</text></generalfeedback>
 <shuffleanswers>1</shuffleanswers>
 </question><question type="cloze">
-<name><text>JADG vs JACG</text></name>
+<name><text>JACG vs JADG</text></name>
 <questiontext><text><![CDATA[<table align="center" border="0">
                 <tbody>
                     <tr>
-                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439221&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                         <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439349&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
+                        <td><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178439221&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></td>
                     </tr>
                     <tr>
                         <td style="text-align: center;">1</td>
