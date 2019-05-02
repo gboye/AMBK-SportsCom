@@ -1,0 +1,395 @@
+﻿POULES
+
+Poule A
+
+Angleterre
+Afrique du Sud
+Samoa
+États-Unis
+Tonga
+
+Poule B
+
+Australie
+Pays de Galles
+Fidji
+Canada
+Japon
+
+Poule C
+
+Nouvelle-Zélande
+Écosse
+Italie
+Roumanie
+Portugal
+
+Poule D
+
+France
+Irlande
+Argentine
+Géorgie
+Namibie
+
+
+
+COMPOSITION DES EQUIPES
+
+POULE A
+
+Angleterre : 
+
+Entraîneur	Brian Ashton
+Avants	
+	Pilier	Perry Freshwater, Andrew Sheridan, Matt Stevens, Phil Vickery
+	Talonneur	George Chuter, Lee Mears, Mark Regan
+	Deuxième ligne	Steve Borthwick, Ben Kay, Simon Shaw
+	Troisième ligne aile	Lewis Moody, Tom Rees, Joe Worsley
+	Troisième ligne centre	Martin Corry, Lawrence Dallaglio, Nick Easter
+Arrières	
+	Demi de mêlée	Andy Gomarsall, Shaun Perry, Peter Richards
+	Demi d'ouverture	Jonny Wilkinson, Olly Barkley
+	Centre	Mike Catt, Andy Farrell, Dan Hipkiss, Jamie Noon, Mathew Tait, Toby Flood
+	Ailier	Jason Robinson, Paul Sackey
+	Arrière	Mark Cueto, Josh Lewsey
+
+
+
+Samoa : 
+
+Entraîneur	Michael Jones
+Avants	
+	Pilier	Census Johnston, Justin Va'a, Kas Lealamanu'a
+	Talonneur	Mo Schwalger, Muliufi Salanoa, Silao Vaisola Sefo, Tani Fuga
+	Deuxième ligne	Kane Thompson, Daniel Leo, Siu Lafaialii
+	Troisième ligne aile	Semo Sititi, Ulia Ulia, Justin Purdie, Alfie Vaeluaga
+	Troisième ligne centre	Henry Tuilagi, Iosefa Tekori
+Arrières	
+	Demi de mêlée	Steven So'oialo, Junior Poluleuligaga
+	Demi d'ouverture	Loki Crichton, Lolo Lui
+	Centre	Seilala Mapusua, Eliota Fuimaono-Sapolu, Jerry Meafou, Elvis Seveali'i
+	Ailier	Brian Lima, David Lemi, Lome Fa'atau, Alesana Tuilagi
+	Arrière	Gavin Williams
+
+
+Afrique du Sud :
+
+Entraîneur	Jake White
+Avants	
+	Pilier	BJ Botha, Os du Randt, Gurthrö Steenkamp, CJ van der Linde
+	Talonneur	Gary Botha, Bismarck du Plessis, John Smit (cap.)
+	Deuxième ligne	Bakkies Botha, Victor Matfield, Johann Muller, Albert van den Berg
+	Troisième ligne aile	Schalk Burger, Danie Rossouw, Juan Smith, Wikus Van Heerden
+	Troisième ligne centre	Bobby Skinstad
+Arrières	
+	Demi de mêlée	Fourie du Preez, Ricky Januarie, Ruan Pienaar
+	Demi d'ouverture	Butch James, Andre Pretorius
+	Centre	Jean de Villiers, Jaque Fourie, Wynand Olivier, Wayne Julies
+	Ailier	Bryan Habana, Akona Ndungane, JP Pietersen, Ashwin Willemse
+	Arrière	Percy Montgomery, François Steyn
+
+
+
+Etats-Unis :
+
+Entraîneur	Peter Thorburn
+Avants	
+	Pilier	Mike MacDonald, Chris Osentowski, Jonathan Vitale, Matekitonga Moeakiola
+	Talonneur	Blake Burdette, Owen Lentz
+	Deuxième ligne	Mark Aylor, Luke Gross, Mike Mangan, Hayden Mexted, Alec Parker, Louis Stanfill
+	Troisième ligne aile	Inaki Basauri, Fifita Mounga, Dan Payne, Todd Clever
+	Troisième ligne centre	Henry Bloomfield
+Arrières	
+	Demi de mêlée	Chad Erskine, Michael Petri
+	Demi d'ouverture	Mike Hercus, Valenese Malifa
+	Centre	Philip Eloff, Vahafolau Esikia, Thretton Palamo, Albert Tuipulotu, Salesi Sika
+	Ailier	Paul Emerick, Takudzwa Ngwenya, Chris Wyles
+	Arrière	Andrew Osborne
+
+
+Tonga : 
+
+Entraîneur	Kutusi Fielea
+Avants	
+	Pilier	Toma Toke, Mosese Moala, Taufa'ao Filise, Soane Tonga'uiha, Siosateki Mata'u
+	Talonneur	Ephraim Taukafa, Aleki Lutui
+	Deuxième ligne	Paino Kelekolio Hehea, Inoke Afeaki (cap.), Lisiate Fa'aoso
+	Troisième ligne aile	Emosi Kauhenga, Otenili Langilangi, Tevita Tu'uhoko, Finau Maka, Viliami Vaki
+	Troisième ligne centre	Osaiasi Filipine
+Arrières
+	Demi de mêlée	Soane Havea, Enele Taufa
+	Demi d'ouverture	Pierre Hola, Tevita Tu'ifua
+	Centre	Epi Taione, Joseph Vaka, Suka Hufanga, 'Isileli Tupou
+	Ailier	Ualosi Kailea, Seti Kiole, 'Aisea Kaufusi
+	Arrière	Vungakoto Lilo, Sione Tuipulotu, Hudson Tonga'uiha
+
+
+POULE B
+
+Australie : 
+
+Entraîneur	John Connolly
+Avants
+	Pilier	Al Baxter, Matt Dunning, Greg Holmes, Guy Shepherdson
+	Talonneur	Adam Freier, Sean Hardman, Stephen Moore
+	Deuxième ligne	Mark Chisholm, Hugh McMeniman, Nathan Sharpe, Daniel Vickerman
+	Troisième ligne aile	Rocky Elsom, George Smith, Phil Waugh
+	Troisième ligne centre	David Lyons, Wycliff Palu, Stephen Hoiles, Morgan Turinui
+Arrières
+	Demi de mêlée	Sam Cordingley, George Gregan
+	Demi d'ouverture	Berrick Barnes, Stephen Larkham
+	Centre	Adam Ashley-Cooper, Matt Giteau, Stirling Mortlock (cap.), Scott Staniforth
+	Ailier	Mark Gerrard (remplacé par Cameron Shepherd pendant la compétition), Lote Tuqiri, Drew Mitchell
+	Arrière	Julian Huxley, Chris Latham
+
+
+
+Canada : 
+
+Entraîneur	Ric Suggitt
+Avants
+	Pilier	Scott Franklin, Dan Pletch, Mike Pletch, Rod Snow, Jon Thiel, Kevin Tkachuk
+	Talonneur	Pat Riordan
+	Deuxième ligne	Michael Burak, Jamie Cudmore, Mike James, Luke Tait
+	Troisième ligne aile	David Biddle, Adam Kleeberger, Mike Webb, Colin Yukes
+	Troisième ligne centre	Sean-Michael Stephen, Aaron Carpenter
+Arrières
+	Demi de mêlée	Ed Fairhurst, Matt Weingart, Morgan Williams (cap.)
+	Demi d'ouverture	Ander Monro, Ryan Smith
+	Centre	Craig Culpan, Derek Daypuck, David Spicer, Nick Trenkel
+	Ailier	Justin Mensah-Coker, James Pritchard
+	Arrière	Mike Pyke, DTH van der Merwe
+
+
+Fidji : 
+
+Entraîneur	Ilivasi Tabua
+Avants
+	Pilier	Graham Dewes, Alefoso Yalayalatabua, Jone Railomo, Henry Qiodravu
+	Talonneur	Sunia Koto, Vereniki Sauturaga, Bill Gadolo
+	Deuxième ligne	Ifereimi Rawaqa, Kele Leawere, Isoa Domolailai, Wame Lewaravu, Jone Qovu
+	Troisième ligne aile	Netani Talei, Semisi Naevo, Sisa Koyamaibole, Aca Ratuva
+	Troisième ligne centre	Akapusi Qera
+Arrières
+	Demi de mêlée	Mosese Rauluni
+	Demi d'ouverture	Nicky Little, Waisea Luveniyali
+	Centre	Jone Daunivucu, Seremaia Baï, Seru Rabeni, Kameli Ratuvou, Maleli Kunavore, Gabiriele Lovobalavu
+	Ailier	Vilimoni Delasau, Isoa Neivua, Filimone Bolavucu
+	Arrière	Norman Ligairi
+
+
+
+
+Japon : 
+
+Entraîneur	John Kirwan
+Avants
+	Pilier	Ryō Yamamura, Masahito Yamamoto, Tomokazu Soma, Tatsukichi Nishiura
+	Talonneur	Yuji Matsubara, Mitsugu Yamamoto
+	Deuxième ligne	Takanori Kumagae, Luatangi Vatuvei, Luke Thompson, Yasunori Watanabe
+	Troisième ligne aile	Hitoshi Ono, Hajime Kiso, Hare Makiri, Philip O'Reilly
+	Troisième ligne centre	Takuro Miuchi (cap.), Takamichi Sasaki
+Arrières
+	Demi de mêlée	Yuki Yatomi, Tomoki Yoshida, Chulwon Kim
+	Demi d'ouverture	Kousei Ono
+	Centre	Shotaro Onishi, Yuta Imamura, Koji Taira, Bryce Robins
+	Ailier	Nataniela Oto, Hirotoki Onozawa, Christian Loamanu, Tatsuya Kusumi, Tomoki Kitagawa
+	Arrière	Kosuke Endo, Go Aruga
+
+
+
+Pays de Galles : 
+
+Entraîneur	Gareth Jenkins
+Avants	
+	Pilier	Chris Horsman, Gethin Jenkins, Adam Jones, Duncan Jones, Thomas Rhys Thomas
+	Talonneur	Huw Bennett, Matthew Rees
+	Deuxième ligne	Ian Evans, Ian Gough, Will James, Alun Wyn Jones
+	Troisième ligne aile	Colin Charvis, Jonathan Thomas, Martyn Williams
+	Troisième ligne centre	Michael Owen, Alix Popham
+Arrières
+	Demi de mêlée	Gareth Cooper, Dwayne Peel, Mike Phillips
+	Demi d'ouverture	James Hook, Stephen Jones, Ceri Sweeney
+	Centre	Sonny Parker, Jamie Robinson, Tom Shanklin
+	Ailier	Mark Jones, Dafydd James, Gareth Thomas (cap.), Shane Williams
+	Arrière	Kevin Morgan
+
+
+
+POULE C
+
+
+Ecosse :
+
+Entraîneur	Frank Hadden
+Avants
+	Pilier	Gavin Kerr, Allan Jacobsen, Euan Murray, Craig Smith
+	Talonneur	Ross Ford, Scott Lawson, Fergus Thomson
+	Deuxième ligne	Jason White (cap.), Jim Hamilton, Nathan Hines, Scott Murray, Scott MacLeod
+	Troisième ligne aile	John Barclay, Kelly Brown, David Callam
+	Troisième ligne centre	Simon Taylor, Allister Hogg
+Arrières
+	Demi de mêlée	Chris Cusiter, Mike Blair
+	Demi d'ouverture	Chris Paterson, Dan Parks
+	Centre	Rob Dewey, Marcus Di Rollo, Andrew Henderson, Simon Webster
+	Ailier	Rory Lamont, Sean Lamont, Nikki Walker
+	Arrière	Hugo Southwell
+
+
+
+Italie : 
+
+Entraîneur	Pierre Berbizier
+Avants	
+	Pilier	Matías Agüero, Martin Castrogiovanni, Andrea Lo Cicero, Salvatore Perugini
+	Talonneur	Carlo Festuccia, Leonardo Ghiraldini, Fabio Ongaro
+	Deuxième ligne	Valerio Bernabo, Marco Bortolami, Carlo Del Fava, Santiago Dellapè
+	Troisième ligne aile	Robert Barbieri, Mauro Bergamasco, Alessandro Zanni, Manoa Vosawai
+	Troisième ligne centre	Sergio Parisse, Josh Sole
+Arrières
+	Demi de mêlée	Pablo Canavosio, Paul Griffen, Alessandro Troncon
+	Demi d'ouverture	Ramiro Pez
+	Centre	Mirco Bergamasco, Gonzalo Canale, Andrea Masi
+	Ailier	Ezio Galon, Matteo Pratichetti, Kaine Robertson, Marko Stanojevic
+	Arrière	David Bortolussi, Roland de Marigny
+
+
+Nouvelle-Zélande :
+
+Entraîneur	Graham Henry
+Avants
+	Pilier	Carl Hayman, Neemia Tialata, Tony Woodcock, Greg Somerville
+	Talonneur	Andrew Hore, Keven Mealamu, Anton Oliver
+	Deuxième ligne	Chris Jack, Keith Robinson, Ali Williams
+	Troisième ligne aile	Jerry Collins, Richie McCaw (cap.), Chris Masoe, Reuben Thorne
+	Troisième ligne centre	Sione Lauaki, Rodney So'oialo
+Arrières
+	Demi de mêlée	Andrew Ellis, Byron Kelleher, Brendon Leonard
+	Demi d'ouverture	Daniel Carter, Nick Evans
+	Centre	Luke McAlister, Aaron Mauger, Conrad Smith, Isaia Toeava
+	Ailier	Doug Howlett, Joe Rokocoko, Sitiveni Sivivatu
+	Arrière	Mils Muliaina, Leon MacDonald
+
+
+Portugal :
+
+Entraîneur	Tomaz Morais
+Avants
+	Pilier	Joaquim Ferreira, Cristian Spachuk, Rui Cordeiro, André Da Silva, Juan Murré
+	Talonneur	João Correia, Duarte Figueiredo
+	Deuxième ligne	Marcello D'Orey, Gonçalo Uva, David Penalva
+	Troisième ligne aile	João Uva, Juan Severino, Tiago Girão, Paulo Murinello
+	Troisième ligne centre	Vasco Uva (cap.), Diogo Coutinho
+Arrières
+	Demi de mêlée	Luís Pissarra, José Pinto
+	Demi d'ouverture	Duarte Cardoso Pinto, Pedro Cabral, Gonçalo Malheiro
+	Centre	Diogo Mateus, Miguel Portela de Morais
+	Ailier	Frederico Sousa, Pedro Carvalho, Diogo Gama, David Mateus, Gonçalo Foro
+	Arrière	António Aguilar, Pedro Leal
+
+
+Roumanie : 
+
+Entraîneur	Daniel Santamans, Robert Antonin
+Avants
+	Pilier	Petru Bălan, Bogdan Bălan, Cezar Popescu, Petrisor Toderasc, Silviu Florea
+	Talonneur	Marius Tincu, Razvan Mavrodin
+	Deuxième ligne	Sorin Socol (cap.), Cristian Petre, Valentin Ursache, Augustin Petrechei
+	Troisième ligne aile	Ovidiu Tonița, Florin Corodeanu, Cosmin Ratiu
+	Troisième ligne centre	Alexandru Manta, Alexandru Tudori
+Arrières
+	Demi de mêlée	Valentin Calafeteanu, Lucian Sîrbu
+	Demi d'ouverture	Ionuț Dimofte, Ionut Tofan, Dănuț Dumbravă
+	Centre	Romeo Gontineac, Minya Csaba Gal, Dan Vlad
+	Ailier	Catalin Fercu, Gabriel Brezoianu, Florin Vlaicu, Stefan Ciuntu
+	Arrière	Iulian Dumitraș, Cătălin Nicolae
+
+
+
+POULE D
+
+
+Argentine : 
+
+Entraîneur	Marcelo Loffreda
+Avants
+	Pilier	Marcos Ayerza, Santiago González Bonorino, Omar Hasan, Rodrigo Roncero, Martín Scelzo
+	Talonneur	Mario Ledesma, Alberto Vernet Basualdo
+	Deuxième ligne	Patricio Albacete, Rimas Álvarez Kairelis, Ignacio Fernández Lobbe, Esteban Lozada
+	Troisième ligne aile	Martín Durand, Juan Manuel Leguizamón, Lucas Ostiglia, Martín Schusterman
+	Troisième ligne centre	Juan Martín Fernández Lobbe, Gonzalo Longo
+Arrières
+	Demi de mêlée	Horacio Agulla, Nicolás Fernández Miranda, Agustín Pichot (cap.)
+	Demi d'ouverture	Felipe Contepomi, Federico Todeschini
+	Centre	Manuel Contepomi, Gonzalo Tiesi, Hernán Senillosa
+	Ailier	Lucas Borges, José María Núñez Piossek
+	Arrière	Ignacio Corleto, Juan Martín Hernández, Federico Serra
+
+
+France :
+
+Entraîneur	Bernard Laporte
+Avants
+	Pilier	Pieter de Villiers, Olivier Milloud, Jean-Baptiste Poux, Nicolas Mas
+	Talonneur	Sébastien Bruno, Raphaël Ibañez (cap.), Dimitri Szarzewski
+	Deuxième ligne	Lionel Nallet, Fabien Pelous, Jérôme Thion, Sébastien Chabal
+	Troisième ligne aile	Serge Betsen, Thierry Dusautoir, Rémy Martin, Yannick Nyanga
+	Troisième ligne centre	Julien Bonnaire, Imanol Harinordoquy
+Arrières
+	Demi de mêlée	Jean-Baptiste Élissalde, Pierre Mignoni
+	Demi d'ouverture	Lionel Beauxis, Frédéric Michalak, David Skrela
+	Centre	Yannick Jauzion, David Marty, Damien Traille
+	Ailier	Vincent Clerc, Christophe Dominici, Cédric Heymans, Aurélien Rougerie
+	Arrière	Clément Poitrenaud
+
+
+Gérogie : 
+
+Entraîneur	Malkhaz Tcheishvili, David Chavleishvili, Paata Narimanashvili
+Avants
+	Pilier	Irakli Giorgadze, Goderdzi Shvelidze, Avto Kopaliani, Mamuka Magrakvelidze, Davit Khinchaguishvili, Davit Zirakashvili
+	Talonneur	Akvsenti Giorgadze
+	Deuxième ligne	Victor Didebulidze, Mamuka Gorgodze, Levan Datunashvili
+	Troisième ligne aile	Ilia Zedguinidze, Gia Labadze, Besso Udessiani, Rati Urushadze, Georgi Chkhaidze, Zviad Maissuradze
+	Troisième ligne centre	Ilia Maissuradze
+Arrières
+	Demi de mêlée	Merab Kvirikashvili, Irakli Abuseridze, Bidzina Samkharadze
+	Demi d'ouverture	Paliko Jimsheladze, Otar Barkalaia
+	Centre	Otar Eloshvili, David Katcharava
+	Ailier	Irakli Machkhaneli, George Shkinini, Giorgi Elizbarashvili, Makho Urjukashvili
+	Arrière	Bessik Khamashuridze, Rezo Guigauri
+
+
+Irlande : 
+
+Entraîneur	Eddie O'Sullivan
+Avants
+	Pilier	Rory Best, Simon Best, John Hayes, Marcus Horan, Bryan Young
+	Talonneur	Jerry Flannery, Frankie Sheahan
+	Deuxième ligne	Donncha O'Callaghan, Paul O'Connell, Malcolm O'Kelly
+	Troisième ligne aile	Neil Best, Simon Easterby, Denis Leamy, Alan Quinlan, David Wallace
+	Troisième ligne centre	Stephen Ferris
+Arrières
+	Demi de mêlée	Isaac Boss, Eoin Reddan, Peter Stringer
+	Demi d'ouverture	Ronan O'Gara, Paddy Wallace
+	Centre	Gordon D'Arcy, Brian O'Driscoll, Andrew Trimble
+	Ailier	Shane Horgan, Denis Hickie, Brian Carney
+	Arrière	Girvan Dempsey, Geordan Murphy, Gavin Duffy
+
+
+Namibie : 
+
+Entraîneur	Hakkies Husselman
+Avants
+	Pilier	Jane du Toit, Kees Lensing, Johnny Redelinghuys, Marius Visser
+	Talonneur	Hugo Horn, Bratley Langenhoven, Johannes Meyer, Piet van Zyl
+	Deuxième ligne	Nico Esterhuize, Domingo Kamongo, Wacca Kazombiaze, Heino Senekal
+	Troisième ligne aile	Tinus du Plessis, Herman Lintvelt, Michael MacKenzie
+	Troisième ligne centre	Jacques Burger, Jacques Nieuwenhuis
+Arrières
+	Demi de mêlée	Eugene Jantjies, Jurie van Tonder
+	Demi d'ouverture	Morne Schreuder
+	Centre	Lu-Wayne Botes, Du Preez Grobler, Emile Wessels
+	Ailier	Melrick Africa, John Drotsky, Deon Mouton, Ryan Witbooi
+	Arrière	Heini Bock, Tertius Losper
