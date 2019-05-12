@@ -1,0 +1,43 @@
+Christophe Dominici=Fr;Juan Martín Hernández=Ar	spk1	Hernandez,Dominici	1
+Cédric Heymans=Fr;Christophe Dominici=Fr	spk1	Heymans,Dominici	1
+Damien Traille=Fr;Christophe Dominici=Fr	spk2	Dominici,Traille	1
+Damien Traille=Fr;Christophe Dominici=Fr	spk3	Dominici,Traille	1
+Damien Traille=Fr;Cédric Heymans=Fr	spk1	Damien Traille,Cédric Heymans	1
+Damien Traille=Fr;Pierre Mignoni=Fr	spk1	Mignoni,Damien Traille	1
+Damien Traille=Fr;Rémy Martin=Fr	spk2	Traille,Rémy Martin	1
+David Skrela=Fr;Bernard Laporte=Fr	spk2	Bernard Laporte,Skrela	1
+David Skrela=Fr;Juan Martín Hernández=Ar	spk1	Hernandez,Skrela	1
+David Skrela=Fr;Pierre Mignoni=Fr	spk1	Mignoni,Skrela	2
+David Skrela=Fr;Pierre Mignoni=Fr	spk2	Mignoni,Skrela	1
+Fabien Pelous=Fr;Pierre Mignoni=Fr	spk1	Mignoni,Pelous	1
+Fabien Pelous=Fr;Raphaël Ibañez=Fr	spk1	Ibañez,Pelous	1
+Fabien Pelous=Fr;Raphaël Ibañez=Fr	spk1	Pelous,Ibañez	1
+Fabien Pelous=Fr;Rémy Martin=Fr;Raphaël Ibañez=Fr	spk1	Ibañez,Rémy Martin,Fabien Pelous	1
+Felipe Contepomi=Ar;Juan Martín Hernández=Ar;Manuel Contepomi=Ar	spk1	Hernandez,Contepomi	1
+Imanol Harinordoquy=Fr;Pierre Mignoni=Fr	spk1	Mignoni,Harinordoquy	1
+Juan Martín Hernández=Ar;Agustín Pichot=Ar	spk1	Pichot,Hernandez	2
+Julien Bonnaire=Fr;Sébastien Chabal=Fr;Dimitri Szarzewski=Fr	spk3	Sébastien Chabal,Julien Bonnaire,Dimitri Szarzewski	1
+Lucas Ostiglia=Ar;Juan Martín Fernández Lobbe=Ar;Nicolás Fernández Miranda=Ar;Ignacio Fernández Lobbe=Ar	spk1	Ostiglia,Fernandez	1
+Manuel Contepomi=Ar;Felipe Contepomi=Ar	spk1	Felipe,Contepomi	1
+Martín Durand=Ar;Martín Schusterman=Ar;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;Fabien Pelous=Fr;Rémy Martin=Fr	spk1	Pelous,Martin	1
+Martín Durand=Ar;Martín Schusterman=Ar;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;Serge Betsen=Fr;Rémy Martin=Fr	spk1	Betsen,Martin	1
+Martín Scelzo=Ar;Agustín Pichot=Ar	spk1	Scelzo,Pichot	1
+Nicolas Mas=Fr;Bernard Laporte=Fr	spk1	Mas,Bernard Laporte	1
+Pieter de Villiers=Fr;Serge Betsen=Fr	spk1	de Villiers,Betsen	1
+Raphaël Ibañez=Fr;Serge Betsen=Fr	spk3	Betsen,Raphaël Ibañez	1
+Rodrigo Roncero=Ar;Martín Scelzo=Ar;Pieter de Villiers=Fr;Olivier Milloud=Fr	spk3	Olivier Milloud,Scelzo,Pieter de Villiers,Rodrigo Roncero	1
+Rodrigo Roncero=Ar;Pieter de Villiers=Fr	spk1	Roncero,de Villiers	1
+Rémy Martin=Fr;Martín Schusterman=Ar;Cédric Heymans=Fr;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;Christophe Dominici=Fr;Martín Durand=Ar	spk1	Dominici,Heymans,Martin	1
+Rémy Martin=Fr;Martín Schusterman=Ar;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;David Skrela=Fr;Serge Betsen=Fr;Martín Durand=Ar	spk1	Skrela,Martin,Serge Betsen	1
+Rémy Martin=Fr;Martín Schusterman=Ar;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;Pierre Mignoni=Fr;Martín Durand=Ar	spk1	Martin,Mignoni	1
+Rémy Martin=Fr;Martín Schusterman=Ar;Yannick Jauzion=Fr;Juan Martín Hernández=Ar;Martín Scelzo=Ar;Juan Martín Fernández Lobbe=Ar;Martín Durand=Ar	spk1	Jauzion,Martin	1
+Thierry Dusautoir=Fr;Cédric Heymans=Fr;Thierry Gilardi=Ot;Thierry Lacroix=Ot	spk3	Thierry,Cédric Heymans,Fred Michalak	1
+Thierry Dusautoir=Fr;Frédéric Michalak=Fr;Thierry Gilardi=Ot;Thierry Lacroix=Ot	spk3	Thierry,Frédéric Michalak	1
+Thierry Dusautoir=Fr;Ignacio Fernández Lobbe=Ar;Juan Martín Fernández Lobbe=Ar;Thierry Gilardi=Ot;Thierry Lacroix=Ot	spk3	Thierry,Fernandez Lobbe	1
+Thierry Dusautoir=Fr;Sébastien Chabal=Fr	spk3	Sébastien Chabal,Thierry Dusautoir	1
+Thierry Dusautoir=Fr;Sébastien Chabal=Fr;Dimitri Szarzewski=Fr	spk1	Chabal,Dusautoir,Szarzewski	1
+Thierry Dusautoir=Fr;Thierry Gilardi=Ot;Thierry Lacroix=Ot;Fabrice Landreau=Ot	spk2	Thierry,Fabrice Landreau	1
+Thierry Dusautoir=Fr;Thierry Gilardi=Ot;Thierry Lacroix=Ot;Mario Ledesma=Ar	spk3	Thierry,Ledesma	1
+Yannick Jauzion=Fr;Christophe Dominici=Fr	spk1	Jauzion,Dominici	1
+Yannick Jauzion=Fr;Damien Traille=Fr	spk1	Jauzion,Traille	1
+Yannick Jauzion=Fr;Damien Traille=Fr	spk1	Traille,Jauzion	1
