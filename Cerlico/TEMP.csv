@@ -1,0 +1,156 @@
+joueurs	émotion	texte		
+		1		
+Agustín Pichot=Ar		30	34	11,76 %
+Agustín Pichot=Ar	admiration	3		
+Agustín Pichot=Ar	satisfaction	1		
+Aurélien Rougerie=Fr		7	9	22,22 %
+Aurélien Rougerie=Fr	espoir	2		
+Bernard Laporte=Fr		6	7	14,29 %
+Bernard Laporte=Fr	espoir	1		
+Christophe Dominici=Fr		15	17	11,76 %
+Christophe Dominici=Fr	admiration	1		
+Christophe Dominici=Fr	satisfaction	1		
+Christophe Dominici=Fr;Juan Martín Hernández=Ar		1		
+Cédric Heymans=Fr		17	25	32,00 %
+Cédric Heymans=Fr	admiration	1		
+Cédric Heymans=Fr	enthousiasme	1		
+Cédric Heymans=Fr	espoir	1		
+Cédric Heymans=Fr	satisfaction	4		
+Cédric Heymans=Fr	soulagement	1		
+Cédric Heymans=Fr;Christophe Dominici=Fr		1		
+Cédric Heymans=Fr;Thierry Gilardi=Ot;Frédéric Michalak=Fr		1		
+Damien Traille=Fr		13	19	31,58 %
+Damien Traille=Fr	admiration	1		
+Damien Traille=Fr	agacement	1		
+Damien Traille=Fr	déception	2		
+Damien Traille=Fr	regret	1		
+Damien Traille=Fr	satisfaction	1		
+Damien Traille=Fr;Christophe Dominici=Fr		2		
+Damien Traille=Fr;Cédric Heymans=Fr		1		
+Damien Traille=Fr;Pierre Mignoni=Fr	satisfaction	1		
+Damien Traille=Fr;Rémy Martin=Fr	admiration	1		
+David Ellis=En		1		
+David Skrela=Fr		44	51	13,73 %
+David Skrela=Fr	admiration	1		
+David Skrela=Fr	agacement	2		
+David Skrela=Fr	déception	1		
+David Skrela=Fr	espoir	2		
+David Skrela=Fr	satisfaction	1		
+David Skrela=Fr;Bernard Laporte=Fr		1		
+David Skrela=Fr;Juan Martín Hernández=Ar		1		
+David Skrela=Fr;Pierre Mignoni=Fr		3		
+Dimitri Szarzewski=Fr		3		
+Fabien Pelous=Fr		7	9	22,22 %
+Fabien Pelous=Fr	déception	1		
+Fabien Pelous=Fr	satisfaction	1		
+Fabien Pelous=Fr;Pierre Mignoni=Fr		1		
+Fabien Pelous=Fr;Raphaël Ibañez=Fr		2		
+Fabien Pelous=Fr;Rémy Martin=Fr		1		
+Fabien Pelous=Fr;Rémy Martin=Fr;Raphaël Ibañez=Fr		1		
+Fabrice Landreau=Ot		10		
+Felipe Contepomi=Ar		21	25	16,00 %
+Felipe Contepomi=Ar	admiration	1		
+Felipe Contepomi=Ar	admiration,déception	1		
+Felipe Contepomi=Ar	déception	1		
+Felipe Contepomi=Ar	inquiétude	1		
+Felipe Contepomi=Ar;Juan Martín Hernández=Ar		1		
+Frédéric Michalak=Fr		4		
+Frédéric Michalak=Fr;Thierry Gilardi=Ot		1		
+Hernán Senillosa=Ar		3		
+Ignacio Corleto=Ar		9	16	43,75 %
+Ignacio Corleto=Ar	admiration	1		
+Ignacio Corleto=Ar	agacement	1		
+Ignacio Corleto=Ar	déception	1		
+Ignacio Corleto=Ar	enthousiasme	1		
+Ignacio Corleto=Ar	inquiétude	2		
+Ignacio Corleto=Ar	satisfaction	1		
+Ignacio Fernández Lobbe=Ar;Juan Martín Fernández Lobbe=Ar		1		
+Imanol Harinordoquy=Fr		9	11	18,18 %
+Imanol Harinordoquy=Fr	satisfaction	2		
+Imanol Harinordoquy=Fr;Pierre Mignoni=Fr		1		
+Jean-Baptiste Poux=Fr		1		
+Jean-Baptiste Élissalde=Fr		1		
+Jo Maso=Fr;Bernard Laporte=Fr		1		
+Juan Manuel Leguizamón=Ar		1	4	75,00 %
+Juan Manuel Leguizamón=Ar	déception	1		
+Juan Manuel Leguizamón=Ar	inquiétude	2		
+Juan Martín Fernández Lobbe=Ar		5	6	16,67 %
+Juan Martín Fernández Lobbe=Ar	satisfaction	1		
+Juan Martín Fernández Lobbe=Ar;Thierry Gilardi=Ot		1		
+Juan Martín Hernández=Ar		25	32	21,88 %
+Juan Martín Hernández=Ar	admiration	1		
+Juan Martín Hernández=Ar	agacement	2		
+Juan Martín Hernández=Ar	espoir	2		
+Juan Martín Hernández=Ar	inquiétude	2		
+Juan Martín Hernández=Ar;Agustín Pichot=Ar		1		
+Juan Martín Hernández=Ar;Agustín Pichot=Ar	agacement	1		
+Julien Bonnaire=Fr;Sébastien Chabal=Fr;Dimitri Szarzewski=Fr		1		
+Jérôme Thion=Fr		5	6	16,67 %
+Jérôme Thion=Fr	admiration	1		
+Lucas Borges=Ar		9	10	10,00 %
+Lucas Borges=Ar	satisfaction	1		
+Lucas Ostiglia=Ar		1	2	50,00 %
+Lucas Ostiglia=Ar	déception	1		
+Lucas Ostiglia=Ar;Juan Martín Fernández Lobbe=Ar		1		
+Manuel Contepomi=Ar		2		
+Marcelo Loffreda=Ar		1		
+Mario Ledesma=Ar		16		
+Martín Scelzo=Ar;Agustín Pichot=Ar		1		
+Olivier Milloud=Fr		1		
+Patricio Albacete=Ar		1		
+Pierre Mignoni=Fr		34	40	15,00 %
+Pierre Mignoni=Fr	admiration	2		
+Pierre Mignoni=Fr	déception	2		
+Pierre Mignoni=Fr	espoir	2		
+Pieter de Villiers=Fr		6	8	25,00 %
+Pieter de Villiers=Fr	admiration,déception	1		
+Pieter de Villiers=Fr	déception	1		
+Pieter de Villiers=Fr;Serge Betsen=Fr		1		
+Raphaël Ibañez=Fr		16	20	20,00 %
+Raphaël Ibañez=Fr	admiration	2		
+Raphaël Ibañez=Fr	espoir	1		
+Raphaël Ibañez=Fr	satisfaction	1		
+Raphaël Ibañez=Fr;Serge Betsen=Fr		1		
+Rimas Álvarez Kairelis=Ar		2		
+Rodrigo Roncero=Ar		4		
+Rodrigo Roncero=Ar;Martín Scelzo=Ar;Pieter de Villiers=Fr;Olivier Milloud=Fr		1		
+Rodrigo Roncero=Ar;Pieter de Villiers=Fr		1		
+Rémy Martin=Fr		19	25	24,00 %
+Rémy Martin=Fr	admiration	2		
+Rémy Martin=Fr	déception	1		
+Rémy Martin=Fr	espoir	2		
+Rémy Martin=Fr	satisfaction	1		
+Rémy Martin=Fr;Cédric Heymans=Fr;Christophe Dominici=Fr		1		
+Rémy Martin=Fr;David Skrela=Fr;Serge Betsen=Fr	admiration	1		
+Rémy Martin=Fr;Pierre Mignoni=Fr		1		
+Rémy Martin=Fr;Yannick Jauzion=Fr		1		
+Serge Betsen=Fr		8	13	38,46 %
+Serge Betsen=Fr	déception	2		
+Serge Betsen=Fr	satisfaction	2		
+Serge Betsen=Fr;Rémy Martin=Fr	espoir	1		
+Sébastien Chabal=Fr		5	11	54,55 %
+Sébastien Chabal=Fr	admiration	1		
+Sébastien Chabal=Fr	espoir	2		
+Sébastien Chabal=Fr	satisfaction	3		
+Thierry Dusautoir=Fr;Sébastien Chabal=Fr		1		
+Thierry Dusautoir=Fr;Sébastien Chabal=Fr;Dimitri Szarzewski=Fr		1		
+Thierry Gilardi=Ot		24		
+Thierry Gilardi=Ot	agacement	1		
+Thierry Gilardi=Ot	regret	1		
+Thierry Gilardi=Ot	satisfaction	1		
+Thierry Gilardi=Ot;Fabrice Landreau=Ot		1		
+Thierry Gilardi=Ot;Mario Ledesma=Ar		1		
+Thierry Lacroix=Ot		4		
+Thierry Lacroix=Ot	agacement	1		
+Yannick Jauzion=Fr		11	14	21,43 %
+Yannick Jauzion=Fr	admiration	1		
+Yannick Jauzion=Fr	satisfaction	2		
+Yannick Jauzion=Fr;Christophe Dominici=Fr		1		
+Yannick Jauzion=Fr;Damien Traille=Fr		2		
+				
+				
+			1	75,00 %
+			2	54,55 %
+			3	50,00 %
+			4	43,75 %
+			5	38,46 %
