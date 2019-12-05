@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category">
+<category>
+<text>
+Perception/Questionnaire/Emotions/fr
+</text>
+</category>
+</question><question type="cloze">
+<name><text>fr01</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=wzYYgRA1IDYdrjPCKzusycalHTLUGHBi">https://sharedocs.huma-num.fr/wl/?id=wzYYgRA1IDYdrjPCKzusycalHTLUGHBi</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr02</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=Kr2NnnqXG8mDHsvMGfrxNlzHaycavxon">https://sharedocs.huma-num.fr/wl/?id=Kr2NnnqXG8mDHsvMGfrxNlzHaycavxon</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr03</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=Bq22rQ45hp6cbugxaTHJi0pd9ikirbTe">https://sharedocs.huma-num.fr/wl/?id=Bq22rQ45hp6cbugxaTHJi0pd9ikirbTe</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr04</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=d8F92lLLGaoFCzo779qw7m0aRXUxrwEm">https://sharedocs.huma-num.fr/wl/?id=d8F92lLLGaoFCzo779qw7m0aRXUxrwEm</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr05</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=VHalLNSpvh7rujsa6ZfF4z9eXQc371vZ">https://sharedocs.huma-num.fr/wl/?id=VHalLNSpvh7rujsa6ZfF4z9eXQc371vZ</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr06</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=TW568Y5ZJ6vEQqIhA1dkizs6U97taELn">https://sharedocs.huma-num.fr/wl/?id=TW568Y5ZJ6vEQqIhA1dkizs6U97taELn</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr07</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=3mZhEgbKi93Wg5Gr4Aoxmbbw6RGSmXJy">https://sharedocs.huma-num.fr/wl/?id=3mZhEgbKi93Wg5Gr4Aoxmbbw6RGSmXJy</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr08</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=Sf1yENWZAD481Js8YwERxH51QJa6k1Ta">https://sharedocs.huma-num.fr/wl/?id=Sf1yENWZAD481Js8YwERxH51QJa6k1Ta</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr09</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=EkQGdpG0AIarozdZF4KYsKCQBsQlUdLR">https://sharedocs.huma-num.fr/wl/?id=EkQGdpG0AIarozdZF4KYsKCQBsQlUdLR</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr10</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=x35hkHxMvVz8KIy7mgeWnDnFkgc1WJCZ">https://sharedocs.huma-num.fr/wl/?id=x35hkHxMvVz8KIy7mgeWnDnFkgc1WJCZ</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr11</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=6BWtREt8Y15Wf6uzxDARtbGz1gdxMCRd">https://sharedocs.huma-num.fr/wl/?id=6BWtREt8Y15Wf6uzxDARtbGz1gdxMCRd</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr12</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=LNhwION5szGCVMc4zx0HDMwHLpbYr4J5">https://sharedocs.huma-num.fr/wl/?id=LNhwION5szGCVMc4zx0HDMwHLpbYr4J5</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr13</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=zaBdwkOJZAdxbshBLOsS6AQ3TXDGxfIO">https://sharedocs.huma-num.fr/wl/?id=zaBdwkOJZAdxbshBLOsS6AQ3TXDGxfIO</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr14</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=vxGErd6B2ZRsGr5GO337s7SHvaCn1ywL">https://sharedocs.huma-num.fr/wl/?id=vxGErd6B2ZRsGr5GO337s7SHvaCn1ywL</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr15</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=j6u2HV0xK5dccyjqHpDWDVXPlbge1mOr">https://sharedocs.huma-num.fr/wl/?id=j6u2HV0xK5dccyjqHpDWDVXPlbge1mOr</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr16</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=WFZ7fRc6JgjXPGE0F6XAPTwkgT6yNFTI">https://sharedocs.huma-num.fr/wl/?id=WFZ7fRc6JgjXPGE0F6XAPTwkgT6yNFTI</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr17</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=ix08Ii69rLqGfg3K21zM3bguAGt8ao2W">https://sharedocs.huma-num.fr/wl/?id=ix08Ii69rLqGfg3K21zM3bguAGt8ao2W</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr18</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=BDYCXVlUMy4x9JhnwX4yX36gLdrjz38i">https://sharedocs.huma-num.fr/wl/?id=BDYCXVlUMy4x9JhnwX4yX36gLdrjz38i</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr19</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=P3jj10dBwXegWSfGWYTGahg6oD3E8lup">https://sharedocs.huma-num.fr/wl/?id=P3jj10dBwXegWSfGWYTGahg6oD3E8lup</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr20</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=rLC9c0LAGmNyaWQeBqZD4YJGMSDLV3VJ">https://sharedocs.huma-num.fr/wl/?id=rLC9c0LAGmNyaWQeBqZD4YJGMSDLV3VJ</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question><question type="cloze">
+<name><text>fr21</text></name>
+<questiontext><text><![CDATA[<p style="text-align: center;">
+            &nbsp;<audio controls="true"><source src="https://sharedocs.huma-num.fr/wl/?id=jdsM7Pfu8F9iLRrmkoU2TDnUAyYNLPsx">https://sharedocs.huma-num.fr/wl/?id=jdsM7Pfu8F9iLRrmkoU2TDnUAyYNLPsx</audio>&nbsp;<br>
+            </p>
+            <p>Écoutez l'extrait.</p>
+            <p>Après avoir écouté, répondez aux questions suivantes.<br />
+            <p>Quel est le degré d'excitation du locuteur ?
+              <br>pas excité = 1 &lt;———————————————&gt; 5 = très excité
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>
+
+            <p>D'après vous, l'émotion que le locuteur exprime est...&nbsp;
+              <br>très négative = -2 &lt;—————————————&gt; +2 = très positive
+              <br>{1:MCH:=&lt;br&gt;-2~=&lt;br&gt;-1~=&lt;br&gt;0~=&lt;br&gt;+1~=&lt;br&gt;+2}
+            </p>
+
+            <p>D'après vous, le locuteur exprime une émotion... ?
+              <br>très faible = 1 &lt;———————————————&gt; 5 = très forte&nbsp;
+              <br>{1:MCH:=&lt;br&gt;1~=&lt;br&gt;2~=&lt;br&gt;3~=&lt;br&gt;4~=&lt;br&gt;5}
+            </p>]]></text></questiontext>
+<generalfeedback><text>Bien reçu.</text></generalfeedback>
+<shuffleanswers>1</shuffleanswers>
+<penalty>0.3333333</penalty>
+</question>
+</quiz>
