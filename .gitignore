@@ -5,6 +5,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Sous-titres
+*.ass
+
+# Excel
+*.xls
+*.xlsx
+# Transcriber
+*.trs
+*.trico
+
 # Distribution / packaging
 .Python
 env/
