@@ -8,12 +8,15 @@ __pycache__/
 # Sous-titres
 *.ass
 
-# Excel
+# Office
 *.xls
 *.xlsx
-# Transcriber
+*.docx
+
+# Transcriptions
 *.trs
 *.trico
+*.TextGrid
 
 # Distribution / packaging
 .Python
