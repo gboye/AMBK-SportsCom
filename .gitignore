@@ -1,5 +1,11 @@
+*.mp3
+*.wav
+
 *.srt
 *.vtt
+
+*.txt
+*.csv
 
 *.eaf
 *.pfsx
