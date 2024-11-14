@@ -1,6 +1,10 @@
 *.mp3
 *.wav
 
+*.png
+
+*.zip
+
 *.srt
 *.vtt
 
